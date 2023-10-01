@@ -1,0 +1,8 @@
+/.cspell
+/.ipynb_checkpoints
+/.vscode
+/env
+*.png
+test.ipynb
+Values.ipynb
+Newton_Rapson.py
